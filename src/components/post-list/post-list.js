@@ -8,11 +8,11 @@ const PostList = () => {
     return ( <
         ul className = "app-list list-group" >
         <
-        PostListItem / >
+        PostListItem label = 'Going to learn React' / >
         <
-        PostListItem / >
+        PostListItem label = 'Its very good' / >
         <
-        PostListItem / >
+        PostListItem label = 'I will find a cool job' / >
         <
         /ul> 
     )
